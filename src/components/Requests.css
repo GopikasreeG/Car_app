@@ -1,0 +1,24 @@
+/* src/components/UserRequests.css */
+.user-requests {
+  padding: 20px;
+}
+
+.user-requests h2 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}

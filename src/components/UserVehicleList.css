@@ -1,0 +1,37 @@
+/* src/components/UserVehicleList.css */
+.user-vehicle-list {
+    padding: 20px;
+  }
+  
+  .user-vehicle-list h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #34a853; /* Green color for request button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #2d8a4a; /* Darker green on hover */
+  }

@@ -1,0 +1,44 @@
+/* src/components/UpdateVehicle.css */
+.update-vehicle {
+    padding: 20px;
+  }
+  
+  .update-vehicle h2 {
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  input {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #357ab8;
+  }

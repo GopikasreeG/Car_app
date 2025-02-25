@@ -1,0 +1,42 @@
+/* src/components/UserRequests.css */
+.user-requests {
+    padding: 20px;
+  }
+  
+  .user-requests h2 {
+    margin-bottom: 20px;
+    color:  #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  th {
+    background-color: #f4f4f4;
+  }
+  
+  button {
+    margin-right: 5px;
+    padding: 5px 10px;
+    background-color: #4285f4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #357ab8;
+  }
+  .button-group {
+    display: flex;
+    gap: 10px; /* Adds space between buttons */
+  }
